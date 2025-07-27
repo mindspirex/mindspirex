@@ -15,46 +15,51 @@ I'm a passionate developer from Noida. I love building things and am always eage
 
 Here are a few technologies I've been working with recently:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+
+  <div style="width: 96px; text-align: center; margin-bottom: 1rem;">
+    <a href="#-my-tech-stack">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+    </a>
+    <br>JavaScript
+  </div>
+
+  <div style="width: 96px; text-align: center; margin-bottom: 1rem;">
+    <a href="#-my-tech-stack">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+    </a>
+    <br>TypeScript
+  </div>
+
+  <div style="width: 96px; text-align: center; margin-bottom: 1rem;">
+    <a href="#-my-tech-stack">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    </a>
+    <br>React
+  </div>
+
+  <div style="width: 96px; text-align: center; margin-bottom: 1rem;">
+    <a href="#-my-tech-stack">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+    </a>
+    <br>Node.js
+  </div>
+
+  <div style="width: 96px; text-align: center; margin-bottom: 1rem;">
+    <a href="#-my-tech-stack">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    </a>
+    <br>Python
+  </div>
+
+  <div style="width: 96px; text-align: center; margin-bottom: 1rem;">
+    <a href="#-my-tech-stack">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+    </a>
+    <br>Docker
+  </div>
+
+</div>
 
 <br/>
 
