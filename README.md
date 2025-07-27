@@ -59,6 +59,24 @@ Here are a few technologies I've been working with recently:
     height="48"
     alt="Docker"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
 </div>
 
 ## 🤝 Connect with Me
