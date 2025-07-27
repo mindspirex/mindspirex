@@ -20,7 +20,8 @@ Here are a few technologies I've been working with recently:
     display: flex;
     justify-content: between;
     flex-wrap: wrap;
-    gap: 20px;
+    column-gap: 30px;
+    row-gap: 20px;
   "
 >
   <img
