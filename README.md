@@ -25,37 +25,37 @@ Here are a few technologies I've been working with recently:
   "
 >
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     width="48"
     height="48"
     alt="JavaScript"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="48"
     height="48"
     alt="TypeScript"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     width="48"
     height="48"
     alt="React"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
     width="48"
     height="48"
     alt="Node.js"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     width="48"
     height="48"
     alt="Python"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
     width="48"
     height="48"
     alt="Docker"
@@ -74,6 +74,30 @@ Here are a few technologies I've been working with recently:
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="48"
+    height="48"
+    alt="C++"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
     width="48"
     height="48"
     alt="C++"
