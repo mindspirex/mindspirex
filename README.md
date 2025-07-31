@@ -91,7 +91,7 @@ Here are a few technologies I've been working with recently:
     alt="C++"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     width="48"
     height="48"
     alt="C++"
