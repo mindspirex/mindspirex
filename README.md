@@ -6,7 +6,7 @@ I'm a passionate developer from Noida. I love building things and am always eage
 
 - 🔭 I’m currently working on project using Node.js
 - 🌱 I’m currently learning Rust, Golang, and Docker.
-- 👯 I’m looking to collaborate on open-source projects related to Rust, Devops.
+- 👯 I’m looking to collaborate on open-source projects related to Go, Devops.
 - 📫 How to reach me: [ksanskar.kumar@gmail.com](mailto:ksanskar.kumar@gmail.com)
 
 <br/>
@@ -106,8 +106,5 @@ Here are a few technologies I've been working with recently:
   </a>
   <a href="https://twitter.com/mindspirex" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://sanskar.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
